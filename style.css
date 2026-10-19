@@ -12,3 +12,22 @@
   justify-content: center;
   gap: 25px;
 }
+.intro-text {
+  color: red;
+}
+
+.desc-text {
+  color: black;
+}
+
+.form-input {
+  padding: 10px;
+}
+
+.form-btn {
+  padding: 10px;
+  border-radius: 30px;
+  background-color: red;
+  color: white;
+  border: none;
+}
