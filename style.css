@@ -3,3 +3,27 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.bigjoe {
+  font-size: 30px;
+  color: brown;
+  padding: 20px;
+}
+
+.about {
+  justify-content:left;
+  text-align: left;
+  line-height: 1.9;
+  width: 600px;
+  padding: 20px;
+}
+
+.contact-us {
+  padding: 20px;
+  color: brown;
+}
+
+.contacts {
+  padding-left: 20px;
+  line-height: 2;
+}
